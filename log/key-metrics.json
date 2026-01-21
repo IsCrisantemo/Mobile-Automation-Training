@@ -1,0 +1,234 @@
+[
+    {
+        "name": "sdk:testhub",
+        "entryType": "measure",
+        "startTime": 219.60674998164177,
+        "duration": 1353.9332910180092,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39830
+    },
+    {
+        "name": "sdk:percy",
+        "entryType": "measure",
+        "startTime": 1578.9056249856949,
+        "duration": 0.45912501215934753,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39830
+    },
+    {
+        "name": "sdk:automate:local",
+        "entryType": "measure",
+        "startTime": 1579.4664160013199,
+        "duration": 0.24854198098182678,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39830
+    },
+    {
+        "name": "sdk:automate:hub-management",
+        "entryType": "measure",
+        "startTime": 2551.1259999871254,
+        "duration": 535.0595830082893,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39830
+    },
+    {
+        "name": "sdk:automate:print-buildlink",
+        "entryType": "measure",
+        "startTime": 11792.363665997982,
+        "duration": 607.5275419950485,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39830
+    },
+    {
+        "name": "sdk:testhub",
+        "entryType": "measure",
+        "startTime": 192.99104198813438,
+        "duration": 1472.0572910010815,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39977
+    },
+    {
+        "name": "sdk:percy",
+        "entryType": "measure",
+        "startTime": 1668.914332985878,
+        "duration": 0.31825000047683716,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39977
+    },
+    {
+        "name": "sdk:automate:local",
+        "entryType": "measure",
+        "startTime": 1669.3131670057774,
+        "duration": 0.17999997735023499,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39977
+    },
+    {
+        "name": "sdk:automate:hub-management",
+        "entryType": "measure",
+        "startTime": 2392.3329170048237,
+        "duration": 379.8488329946995,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39977
+    },
+    {
+        "name": "sdk:automate:print-buildlink",
+        "entryType": "measure",
+        "startTime": 45516.13624998927,
+        "duration": 428.3205420076847,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": 39977
+    },
+    {
+        "name": "sdk:automate:hub-management",
+        "entryType": "measure",
+        "startTime": 1768570987511.056,
+        "duration": 609.3924169838428,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:testhub",
+        "entryType": "measure",
+        "startTime": 1768570987509.532,
+        "duration": 834.61712500453,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:percy",
+        "entryType": "measure",
+        "startTime": 1768570988513.9456,
+        "duration": 0.04483300447463989,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:local",
+        "entryType": "measure",
+        "startTime": 1768570988514.0242,
+        "duration": 0.11533400416374207,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:print-buildlink",
+        "entryType": "measure",
+        "startTime": 1768571033827.4539,
+        "duration": 167.74249997735023,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:cli:onStop",
+        "entryType": "measure",
+        "startTime": 1768571033826.7744,
+        "duration": 614.0472919940948,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:hub-management",
+        "entryType": "measure",
+        "startTime": 1768571707531.3496,
+        "duration": 518.6262090206146,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:testhub",
+        "entryType": "measure",
+        "startTime": 1768571707530.3716,
+        "duration": 991.0890420079231,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:percy",
+        "entryType": "measure",
+        "startTime": 1768571708683.9426,
+        "duration": 0.07658299803733826,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:local",
+        "entryType": "measure",
+        "startTime": 1768571708684.0786,
+        "duration": 0.20937499403953552,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:print-buildlink",
+        "entryType": "measure",
+        "startTime": 1768571719530.4536,
+        "duration": 1231.2622910141945,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:cli:onStop",
+        "entryType": "measure",
+        "startTime": 1768571719529.7405,
+        "duration": 1584.2458330094814,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    }
+]

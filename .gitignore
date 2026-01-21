@@ -1,0 +1,19 @@
+# Dependencias (pesan mucho, no se suben)
+node_modules/
+
+# Seguridad (TUS CLAVES - ¡MUY IMPORTANTE!)
+.env
+
+# Logs y reportes
+*.log
+allure-results/
+allure-report/
+reports/
+
+# Archivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Configuración de IDE
+.vscode/
+.idea/
