@@ -38,7 +38,7 @@ describe('Add notes', () => {
         await EditNoteScreen.SideMenuBtn.click();
         await EditNoteScreen.TrashCanBtn.click();
         await driver.pause(3000);
-        await expect(EditNoteScreen.TrashCanNoteTitle).toHaveText("Fav Anime List");
+        await expect(EditNoteScreen.TrashCanNoteTitle).toHaveText("Anime List");
         });
 
 });
